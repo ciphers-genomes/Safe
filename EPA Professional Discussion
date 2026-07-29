@@ -1,0 +1,368 @@
+# Preparing Your Evidence for the Level 6 DTS EPA Professional Discussion
+
+**Audience:** Level 6 Digital and Technology Solutions Professional apprentices (Software Engineering pathway) whose portfolio is submitted and who are preparing for the EPA Professional Discussion
+**Scope note:** This guide assumes your portfolio is already through gateway and cannot change. If you haven't submitted your portfolio yet, stop: separate guidance on building the portfolio correctly is coming, and following this document instead will point you at the wrong task.
+**Purpose:** Turn a portfolio of mostly assignment-based evidence into a flexible, workplace-grounded evidence bank in STARE format, mapped to the assessed KSBs, ready for questions we can't predict
+
+---
+
+## 1. Why this guide exists
+
+There's a pattern we keep seeing: apprentices arrive at EPA preparation with portfolios built around their university assignments. That's understandable, since the skills coach guidance for completing the portfolio focused on assignments and even mapped which assignments covered which KSBs. But the professional discussion assesses something different: the assessor will ask "tell me about a time when you..." questions that expect answers about your workplace, in the first person.
+
+Your portfolio is already submitted and can't be changed, and that's fine. The official guidance is explicit that the apprentice uses their portfolio to answer questions in the professional discussion **and may also reference other work they have undertaken in the workplace**. Introducing workplace evidence verbally, beyond what's written down, is allowed by design. What it takes is preparation: the assessor will build their questions from the portfolio they've read (your assignments), so your job is to know, for every assignment, which workplace story extends it. The assignment is the doorway the assessor opens; the workplace evidence is what you walk through it with.
+
+Your assignment evidence isn't wasted, then. It earns you the question and supplies the academic underpinning; the workplace evidence supplies the depth, the first-person action, and the results. You have two sources to work from:
+
+1. **Your submitted portfolio** (mostly assignments, mapped to KSBs)
+2. **Workplace evidence supplied to you separately.** This is your promotion evidence, written against our internal competency framework. It's already structured around indicators, with real projects, actions, and outcomes attached, so it's ideal raw material; it just needs translating from competency framework language into KSB language.
+
+This guide, and the reusable prompt in Section 8, show you how to connect the two into preparation notes for the discussion.
+
+---
+
+## 2. How the professional discussion works
+
+The professional discussion is a structured, two-way conversation between you and an independent assessor. It typically opens with identity checks and housekeeping, then moves through questions organised around four themes. You can (and should) refer to your portfolio throughout: it's there to frame the discussion, not to be assessed directly.
+
+Three things follow from how the discussion is designed:
+
+- **You won't know the exact questions.** The example questions later in this guide show the style, but your assessor will ask their own. Your evidence therefore needs to be flexible enough to answer several phrasings of the same underlying KSB.
+- **The assessor uses the language of the KSBs.** Questions are built from KSB wording ("security and resilience techniques", "changing priorities", "sustainable development approaches"). If you know the KSB phrases, you'll recognise which piece of evidence a question is pointing at.
+- **The discussion must let you reach the highest grade.** Distinction-level language in the assessment plan uses verbs like *justifies*, *evaluates*, *compares and contrasts*, and *demonstrates influence*. Your evidence should be written so you can go beyond describing what you did into why, what the alternatives were, and what impact it had.
+
+---
+
+## 3. The four themes and their KSBs
+
+The assessor's questions explore four themes. The KSB groupings from the assessment plan map onto them as follows. Use this table as the spine of your evidence bank: every piece of evidence you prepare should be tagged with a theme and its KSB codes.
+
+| Theme | KSB grouping | KSBs | What they're really asking |
+|---|---|---|---|
+| **A: Underlying Principles** | The organisational context | K7 | Can you explain the roles, functions, and activities relevant to technology solutions in your organisation? |
+| | Core technical concepts | K6, K11, K12, K14, K16 | Can you explain lifecycle approaches and how they fit your organisation's standards and tools; common vulnerabilities; data gathering, management, and analysis; networking concepts? |
+| | SE underlying principles | K21, K22, K23 | Can you describe development lifecycle stages, the techniques used at each stage, and the development methods and the contexts where each applies? |
+| **B: Technical Solutions** | Applied technical solutions | K13, S4, S9, S10, S11, S12 | Have you initiated, designed, coded, tested, and debugged a software component? Applied security and resilience techniques? Built and debugged a data product? Planned and managed a simple network? Applied data analysis principles? |
+| | SE technical solutions | K24, K28 | Can you describe implementing a design against functional, non-functional, and security requirements, and using teamwork tools effectively? |
+| **C: Innovation & Response** | Leading and working together | K8, K9, K10, S7, S8, B4, B6, B7 | How do teams work effectively, informed by organisational theory and current trends? How do leadership and management concepts apply to your role? |
+| | SE innovation and response | S20, S21 | How do you respond to changing priorities and problems, revise recommendations, and adapt plans? How do you choose and refine methods to evaluate project outcomes? (Distinction: demonstrate how your actions influenced team plans and outcomes; compare and contrast your responses.) |
+| **D: Legal, Ethics & Landscape** | Social infrastructure | K19, K20, S15, B1, B2, B8 | How do you apply legal, ethical, social, and professional standards for technical and non-technical audiences? How do sustainable development, diversity, and inclusion relate to your role? (Distinction: justify the standards applied; evaluate your organisation's sustainable practice.) |
+| | SE legal, ethics and landscape | S23 | How do you keep your software development knowledge current through professional and academic research, and use it to lead improvements? |
+
+A practical note on coverage: aim for at least two prepared answers per KSB grouping above, so you're never dependent on a single story surviving contact with an unexpected question. Two answers per grouping across eight groupings is sixteen prepared pieces at roughly 200 words each. That's a manageable evidence bank, not a dissertation.
+
+---
+
+## 4. What good evidence looks like
+
+The example discussions we've reviewed (the QA mock EPA video and post-EPA write-ups from completed apprentices) point to the same handful of habits:
+
+**Workplace first, first person always.** "I designed", "I tested", "I raised it with the team". You can mention collaboration and validation with others, but always loop back to what you did individually. An assignment written in academic third person needs rewriting before it will work in a discussion.
+
+**Anchor with a consistent label, state your role.** Internal security policy means you can't name projects specifically, and that's fine: the assessor needs to follow your story, not identify your systems. Describe each project by what it does, using the same label every time: "a customer-facing payments service", "an internal case-management system I'll call the casework project". Agree with your line manager what level of description is allowed, decide your labels in advance, use the same ones your submitted portfolio used where it has them, and practise them until they come out naturally. A consistent label lets the assessor connect your answers across the discussion just as well as a real name would; what breaks an answer is fumbling mid-sentence over what you're allowed to say.
+
+**Use the KSB vocabulary.** If the KSB says "security and resilience techniques", say those words and then name your specific techniques (threat modelling, dependency scanning, graceful degradation, backups and restore testing). This makes it unmistakable which KSB you're evidencing.
+
+**In the discussion, evidence is spoken.** Screenshots, emails, and artefacts did their job in the submitted portfolio; you won't be producing anything physical during the discussion. Your evidence on the day is specific, first-hand description: what you did, with what, in what order, and what changed as a result. "I introduced retry logic on the integration layer and the overnight failure rate dropped noticeably" is spoken evidence; "it went well" is not.
+
+**Short beats long.** Aim for roughly 40 words per section, around 200 words per answer. The portfolio helps you talk; the talking is what's assessed.
+
+**Know the difference between K, S, and B.** A useful framing: *Knowledge* is "I can prove that I know...", *Skill* is "I can prove that I'm able to...", and *Behaviour* is "I can prove that I consistently...". Behaviours in particular need workplace evidence, since you can't demonstrate consistency in a one-off assignment.
+
+---
+
+## 5. The STARE framework
+
+Because we don't know the questions, every piece of evidence uses one flexible structure: STARE. You may have come across STARR (finishing on Reflect), and it's a perfectly good framework, but we're standardising on STARE because Evaluate goes further than Reflect. It asks you to compare your approach against the alternatives and justify the choice, which is exactly the language of the distinction criteria (*justifies*, *evaluates*, *compares and contrasts*). A good Evaluate contains your reflection anyway; the reverse isn't true.
+
+- **S — Situation.** Brief context, including any academic underpinning that shows you understand the principles behind the question. Two or three sentences.
+- **T — Task.** The outcome you were trying to achieve, or what you were asked to do, and your role.
+- **A — Action.** What *you* actually did, named techniques and tools included.
+- **R — Result.** Did it work? What was the impact? Describe it in terms you can speak to without an artefact: what changed, for whom, and how you knew.
+- **E — Evaluate.** Compare your approach against the alternatives you considered or could have used, justify the choice, and say what you'd do differently next time and why.
+
+Why this makes evidence flexible: a question might arrive as "tell me about a time you applied security techniques" (leads with Action), "how do you respond to changing priorities?" (leads with Situation and Action), or "what would you do differently?" (leads with Evaluate). One well-built STARE answer covers all three entry points. You just start reading from a different letter.
+
+---
+
+## 6. Merging assignment and workplace evidence
+
+Here's the three-step process the reusable prompt automates. It's worth understanding it manually first.
+
+**Step 1: Audit.** List every piece of evidence you have from both sources. Tag each with the KSBs it plausibly covers and whether it's assignment-based, workplace-based, or genuinely both (an assignment carried out on a workplace project counts as both). Your workplace evidence arrives tagged against internal competency framework indicators rather than KSBs, so this step includes a translation: for each competency indicator, note the KSBs it maps to, and keep the original indicator reference so the evidence stays traceable back to its source.
+
+**Step 2: Pair.** For each KSB grouping in the Section 3 table, pair assignment evidence with workplace evidence covering the same KSBs. The assignment usually supplies the *Situation* (the principles, the "why this technique exists") and sometimes the *Evaluate* (assignments force you to compare approaches). The workplace evidence supplies the *Task*, *Action*, and *Result* (what you really did and what happened). Because the assessor prepares questions from your submitted portfolio, treat each submitted assignment as an anchor: note which workplace evidence best extends it, so whichever portfolio item the assessor picks, you already know the workplace story that rides along. The bridge sounds like: "I covered the principles of that in the [X] assignment in my portfolio; where I've applied it in the workplace was when I..."
+
+**Step 3: Rewrite.** Produce one merged STARE answer per pairing, in the first person, using KSB vocabulary, at roughly 200 words. Where a KSB grouping has no workplace evidence at all, flag it as a gap and turn it into a reflective question (see the gap report in the prompt): something you can honestly ask yourself first, then take to your line manager, placement team lead, other apprentices, or the staff you've worked alongside. They'll often remember work you've forgotten. Don't paper over gaps with more assignment material.
+
+A worked sketch: suppose your assignment was a comparative essay on Agile and Waterfall (K23), and your workplace evidence shows you re-planned a sprint after a priority change (S20). The merged answer opens with a sentence of Situation drawing on the essay ("our team runs Scrum because the requirements shift frequently, which suits iterative delivery over a plan-driven approach"), then moves straight into the workplace Task and Action using your anonymised label ("mid-sprint on the case-management service, the product owner escalated a compliance fix, so I..."), and closes with Result and an Evaluate comparing what a plan-driven response would have looked like and what I'd change next time. One answer now serves questions about lifecycle approaches, changing priorities, and team working.
+
+---
+
+## 7. The prep table
+
+Alongside the evidence bank, build a one-page navigation table so you can find the right answer within seconds during the discussion. This is the single most useful document to have open on the day.
+
+| Theme | KSBs | Evidence title | One-line hook | Where it is |
+|---|---|---|---|---|
+| B | S4, S9, K24 | Payments API rebuild | Designed, coded, and tested the integration layer with threat modelling and retry logic | Portfolio p.12 / bank #05 |
+| C | S20, S21 | Mid-sprint compliance pivot | Re-planned the sprint, revised recommendations, influenced the team's approach | Portfolio p.18 / bank #09 |
+
+Fill in one row per prepared answer. Then build the reverse of it: one row per submitted portfolio item, listing the workplace stories that extend it. Since the assessor's questions start from the portfolio, the reverse index is the one you'll reach for first. Print both, or keep them on a second screen next to the portfolio.
+
+---
+
+## 8. The reusable prompt
+
+Give this prompt to each apprentice to run with an AI assistant (Claude or similar). They should attach or paste in: (1) their portfolio of evidence, (2) the workplace evidence supplied to them, and (3) they can leave the KSB table below in place, since it's already included. The prompt does the audit, pair, and rewrite steps from Section 6 and produces a navigable evidence bank plus a gap report.
+
+```text
+You are helping me prepare for my Level 6 Digital and Technology Solutions
+Professional (Software Engineering pathway) EPA Professional Discussion.
+
+I will provide two sources of evidence:
+
+SOURCE 1 - MY PORTFOLIO: mostly university assignment-based evidence.
+SOURCE 2 - WORKPLACE EVIDENCE: my workplace promotion evidence, written
+against my organisation's internal competency framework. It is organised
+by competency indicators, not KSBs, so part of your job is translating
+it: map each competency indicator's evidence to the KSBs it supports,
+and preserve the original indicator reference for traceability.
+
+THE ASSESSMENT
+The professional discussion is a structured two-way conversation with an
+independent assessor. I do not know the exact questions in advance, only
+that they explore four themes built from the KSB wording below. I must
+answer in the first person about real workplace activity, and I may refer
+to my portfolio during the discussion.
+
+MY PORTFOLIO IS ALREADY SUBMITTED and cannot be changed. The independent
+assessor prepares their questions from that submitted portfolio, which
+is mostly assignment-based. The official guidance permits me to
+reference other work I have undertaken in the workplace during the
+discussion, so everything you produce is private preparation material
+that connects my submitted assignments (the likely question anchors) to
+the workplace evidence I will introduce verbally.
+
+WORKING RULES (follow these exactly)
+- Complete ONE step at a time. After finishing a step, stop and wait for
+  me to type "continue" before starting the next step.
+- ANONYMISE EVERYWHERE: internal security policy means I cannot name
+  projects, systems or clients in the discussion. In every output,
+  replace each real project name, system name, codename, client name
+  and colleague name from my evidence with a consistent descriptive
+  label based on what it does or their role ("the customer-facing
+  booking service", "my team lead"), reuse the same label every time
+  the same thing appears, and match the labels my submitted portfolio
+  already uses where it has them. In the audit table, include a key
+  mapping each label to its source item so I can trace it privately.
+- No preamble, no restating these instructions, no concluding summary.
+- If you approach an output limit mid-step, stop at a section boundary
+  and wait for "continue".
+- Before presenting each step's output, silently verify that every KSB
+  code you cite appears in the list below, every claim traces to
+  evidence I provided, and no restricted real name has slipped through;
+  fix anything that fails before showing me.
+
+THE KSBs, ORGANISED BY THEME
+Theme A - Underlying Principles:
+- K7: roles, functions and activities relevant to technology solutions in
+  my organisation
+- K6: lifecycle approaches and techniques, and their fit with my
+  organisation's standards and pre-existing tools
+- K11: nature and scope of common vulnerabilities (critically evaluated)
+- K12, K14: data gathering, data management, data analysis
+- K16: computer networking concepts
+- K21, K22, K23: development lifecycle stages, the techniques used at each
+  stage that produce artefacts, and development methods and the contexts
+  in which each applies
+
+Theme B - Technical Solutions:
+- S4: initiate, design, code, test and debug a software component
+- S9: security and resilience techniques
+- S10: initiate, design, implement and debug a data product
+- S12: plan, design and manage simple computer networks
+- K13, S11: apply the principles of data analysis
+- K24: interpret and implement a design compliant with functional,
+  non-functional and security requirements
+- K28: use tools that support teamwork effectively
+
+Theme C - Innovation & Response:
+- K8, S7, B4, B6, B7: how teams work effectively, applying organisational
+  theories and up-to-date awareness of trends and innovations
+- K9, K10, S8: leadership and management concepts as they relate to my
+  role and how I apply them
+- S20: responding to changing priorities and problems by making revised
+  recommendations and adapting plans (distinction: demonstrate how my
+  actions influenced team plans and outcomes; compare and contrast my
+  responses across scenarios)
+- S21: determining, refining and adapting software engineering methods to
+  evaluate project outcomes
+
+Theme D - Legal, Ethics & Landscape:
+- K19, S15, B1, B2: applying legal, ethical, social and professional
+  standards for both technical and non-technical audiences, in line with
+  organisational guidelines (distinction: justify the standards applied)
+- K20, B8: sustainable development approaches including diversity and
+  inclusion (distinction: evaluate the impact of my organisation's
+  sustainable digital technology practices)
+- S23: extending and updating software development knowledge from
+  professional and academic sources to inform best practice and lead
+  improvements
+
+YOUR TASK
+Work through these steps in order and show your working:
+
+STEP 1 - AUDIT. List every distinct piece of evidence found in both
+sources. For each, give: a short title, the source (assignment /
+workplace / both), the KSB codes it plausibly covers, and, for workplace
+evidence, the internal competency indicator it originally sat under. Do
+not invent evidence; only use what I have provided.
+
+STEP 2 - PAIR. For each KSB grouping above, pair assignment evidence with
+workplace evidence covering the same or overlapping KSBs. Prefer pairings
+where the assignment supplies principles and comparisons and the
+workplace evidence supplies real actions and results. For each pairing,
+name the submitted portfolio item that serves as its anchor (the item
+the assessor is most likely to build a question from). Aim for at least
+two pairings per grouping where the evidence allows.
+
+STEP 3 - REWRITE. For each pairing, write one merged answer of roughly
+200 words (about 40 words per section) using this structure:
+
+  Situation - brief context; weave in the academic underpinning from the
+    assignment where it strengthens the answer
+  Task - the outcome I was trying to achieve and my role, in my workplace
+  Action - what I personally did, in the first person, naming the
+    specific tools and techniques, using the exact KSB vocabulary
+  Result - what happened and the impact; note which item in my
+    submitted portfolio or workplace evidence supports this, if any
+    (only reference items that exist in what I provided)
+  Evaluate - compare my approach against at least one alternative,
+    justify the choice, and say what I would do differently next time
+    and why (this targets distinction-level criteria: justifies,
+    evaluates, compares and contrasts)
+
+Rules for the rewrite:
+- First person throughout ("I designed", "I tested"), workplace framing
+  first, assignments in a supporting role only
+- Where the pairing has a portfolio anchor, open the Situation by naming
+  it ("the [X] assignment in my portfolio covers the principles of
+  this") and then bridge into the workplace evidence ("where I applied
+  this in the workplace was..."), so I move from what the assessor has
+  read into what I am introducing verbally
+- Where a pairing has no submitted portfolio item behind it, mark the
+  answer [NO PORTFOLIO ANCHOR] so I know I will be introducing this
+  work unprompted, and make its Situation especially self-contained
+- Use the KSB wording so the mapping is unmistakable
+- Where evidence involved teamwork, credit the team but always return to
+  my individual contribution
+- Because I am introducing workplace evidence verbally with no artefact
+  in front of the assessor, include concrete specifics I can speak to
+  (my role, the techniques and tools, the sequence of what I did, what
+  changed and how I knew), while staying within the anonymisation rule:
+  specificity comes from actions and outcomes, never from restricted
+  names
+- Keep every claim traceable to the evidence provided; if you have to
+  guess at a detail, mark it [CHECK: ...] so I can confirm or correct it
+- Never fabricate results, feedback or metrics
+
+STEP 4 - INDEX. Produce a prep table with one row per answer: Theme |
+KSB codes | Portfolio anchor | Evidence title | One-line hook. Then
+produce a second, reverse index: one row per submitted portfolio item,
+listing the merged answers that extend it. This second index matters
+most, because the assessor's questions will start from the portfolio;
+whichever item they pick, I need to know instantly which workplace
+evidence to bring in.
+
+STEP 5 - GAP REPORT. List any KSB with no workplace evidence, or no
+evidence at all. For each gap, write one reflective question that
+prompts me to search my own recent work first, and that I can equally
+take to my line manager, placement team leads, other apprentices, or
+staff I have worked with, since they may remember work I have forgotten.
+Phrase each question openly and reflectively, not as a yes/no check.
+For example: "When have I been involved in setting up, changing or
+troubleshooting a network, however small, and who was around who might
+remember it?" or "Which pieces of my work have touched on data
+protection or accessibility, and who did I work with on them?"
+
+OUTPUT FORMAT
+Present the results in this order, one step at a time as per the working
+rules: the audit table, then the merged answers grouped by theme (A to
+D), then the prep table, then the gap report. Use plain headings. These
+are my private preparation notes for the professional discussion: each
+answer should be self-contained so I can rehearse it and find it fast
+during the discussion. They are not portfolio content.
+```
+
+A note on using the prompt well: the output is preparation material, not the finished article. Every apprentice must read each merged answer, correct anything marked [CHECK], and make sure they can talk about every claim without notes. If they can't speak to it, it comes out. The assessor is assessing the person, not the document.
+
+### AI use and authenticity (read this before running the prompt)
+
+Government guidance on end point assessment is explicit that AI must not be used to produce the portfolio. Your portfolio is already submitted, so that boundary is behind you, and nothing here touches it: the prompt produces **private discussion preparation notes**, the same category of material as the prep table the assessor-training video recommends, and preparing thoroughly for a discussion is exactly what you're supposed to do.
+
+Two rules still apply:
+
+1. The evidence is always real. The prompt forbids invention and marks uncertain details with [CHECK], but the responsibility sits with you: never let a generated sentence into your notes that you can't personally stand behind in the discussion. This matters doubly for workplace evidence you introduce verbally, because there's no artefact in front of the assessor; your credibility rests on being able to give concrete, checkable detail unprompted.
+2. Declare, don't hide. If your skills coach or EPAO asks how you prepared, "I used an AI tool to index my existing evidence against the KSBs and drafted my preparation notes from that" is a perfectly good answer. Anything you'd be uncomfortable declaring shouldn't be in your preparation.
+
+One reassurance on introducing unwritten evidence: this is permitted by design, not a loophole. The official guidance states the apprentice uses their portfolio to answer questions and may also reference other work they have undertaken in the workplace. Reflection and evaluation are expected in your spoken answers even though they don't appear in the submitted portfolio, so the Evaluate section of each STARE answer lives in your notes and comes out of your mouth on the day.
+
+### Running the prompt in Gemini (or any other AI tool)
+
+The prompt is model-agnostic, but a few habits get better results, particularly in Gemini:
+
+- **Mind where the evidence goes.** If your organisation's security policy is strict enough that project names can't be shared with an independent assessor, the same policy almost certainly governs pasting internal promotion evidence into an AI tool. Use your organisation-approved AI tooling (for example, a Workspace or enterprise account rather than a personal one), and if in doubt, redact restricted names from the source files before uploading; the prompt's anonymisation rule covers the output, but only you can control the input.
+- **Attach files rather than pasting**, and name them in your first message: "The file `portfolio.pdf` is Source 1. The file `promotion-evidence.docx` is Source 2." Long pasted text is more likely to get skimmed or truncated than an attached file.
+- **Hold it to one step at a time.** The working rules in the prompt already require this; if the model rushes ahead or compresses steps, reply with "Stop. Redo Step [n] only, in full." Sixteen 200-word answers is a long output, and models of every flavour will try to summarise their way out of it if you let them.
+- **Start a fresh chat for the real run.** Don't run the prompt at the end of a long conversation about something else; earlier context bleeds into the output.
+- **Spot-check the KSB codes.** The self-verification rule catches most mislabelling, but skim the audit table yourself: if an answer is tagged S12 (networks) and it's about a database, fix it before going further.
+
+### Companion prompt: mock professional discussion
+
+Once the evidence bank exists, practising out loud matters more than more writing. This second prompt turns the same AI tool into a mock assessor. Paste it into a fresh chat along with the prep table and merged answers from the first prompt.
+
+```text
+Act as an independent assessor conducting a mock EPA professional
+discussion for the Level 6 Digital and Technology Solutions Professional
+apprenticeship (Software Engineering pathway). I will provide my
+preparation notes (a prep table and a set of STARE answers mapped to
+KSBs across four themes: Underlying Principles; Technical Solutions;
+Innovation & Response; Legal, Ethics & Landscape).
+
+Run the session like this:
+- Ask ONE open question at a time, built from KSB wording, rotating
+  across all four themes over the session. Do not announce which KSB or
+  theme a question targets.
+- Vary your phrasing so questions do not simply repeat my notes back to
+  me. Include occasional follow-ups probing depth ("what were the
+  alternatives?", "why that approach?", "what was YOUR individual
+  contribution?"), because real assessors probe for distinction-level
+  responses: justifying choices, evaluating outcomes, and comparing
+  approaches.
+- Wait for my typed answer before continuing.
+- After each answer, give two or three sentences of feedback: which
+  KSBs my answer evidenced, whether I spoke in the first person,
+  whether I reached evaluation or stayed descriptive, whether I
+  accidentally named a real project, system or client instead of using
+  my anonymised labels (internal security policy prohibits this), and
+  one concrete improvement.
+- Every few questions, ask one question deliberately targeting a KSB my
+  notes cover weakly, so I practise recovering when a question doesn't
+  match a prepared answer.
+- Keep a running tally and, when I say "end the session", summarise:
+  themes covered well, themes to revisit, and my three highest-priority
+  improvements.
+```
+
+### Verify against the assessment plan before circulating
+
+A few details in this guide are deliberately generic because they belong to the assessment plan and your EPAO's kit rather than to us. Before this pack goes out, lift the exact figures from the current ST0119 assessment plan and add them to Section 2: the professional discussion duration and permitted extension, and the minimum number of questions. Also confirm which version of the standard each apprentice is on: the themed professional discussion described here belongs to the 2023 revision of the standard, and apprentices who started earlier may be assessed under the previous plan, which is structured differently.
+
+---
+
+## 9. On the day
+
+Test your kit and software ahead of time, and have your photo ID ready. Keep water, pen and paper, your prep table, and your portfolio (open on screen or printed) beside you. When a question lands: replay part of it back to anchor yourself, name the portfolio project you'll use, state your role, and work through your STARE answer in the first person. It's fine to pause and check your notes, and it's fine to ask the assessor whether they'd like more detail. Re-read the whole portfolio the day before so it's fresh, and do a vocal warm-up if you're not used to speaking at length.
+
+One last reminder, borrowed from an apprentice who's been through it: the portfolio is not directly assessed; it exists to help you pass the professional discussion. Build it for you.
