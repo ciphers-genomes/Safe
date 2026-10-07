@@ -1,0 +1,141 @@
+Working Well Together: Apprentice Session Plan
+
+Oct 7, 2026
+
+Session overview
+
+A 105-minute, in-person session that helps new apprentices understand psychological safety, name how they like to communicate and work, and agree how they'll make room for each other's preferences. It ends with a draft team working agreement they own.
+
+Audience: New software apprentices, ideally 6 to 16 people (works best in groups of four).
+
+Duration: 1 hour 45 minutes, including a 10-minute break. It runs straight after the paper plane factory, which goes first after lunch.
+
+By the end, apprentices will be able to:
+– Explain psychological safety in their own words and why it matters for engineering teams
+– Describe their own communication and working preferences, and recognise that others differ
+– Suggest practical ways to accommodate preferences that aren't their own
+– Contribute to a team working agreement they'll revisit during their first few months
+
+Materials: Sticky notes (two colours), marker pens, flipchart or whiteboard, printed personal user manual handout (one each), timer visible to the room, and a slide or flipchart with the 1-2-4-All prompts.
+
+Room set-up: Tables of four, with space for pairs to turn to each other. If remote, use breakout rooms of two and four, plus a shared Miro or Mural board.
+
+Run of show
+StartLengthSectionFormat0:005 minWelcome and resetWhole group0:0520 minPart 1: Psychological safetyShort input, then factory debrief in tables0:2525 minPart 2: Communication styles and preferencesSolo reflection, then pairs0:5010 minBreak1:0030 minPart 3: 1-2-4-All on ways of workingTwo rounds of 1-2-4-All1:3015 minPart 4: Working agreement and closeWhole group
+Start times are counted from the end of the paper plane factory.
+
+Welcome and reset (5 min): They'll already be warmed up from the factory, so keep this short. Share something small and human yourself, such as a mistake you made as a junior. Say up front that there are no wrong answers today and anyone can pass at any point.
+
+Part 1: Psychological safety (20 min)
+
+Psychological safety is the shared belief that it's safe to take interpersonal risks in a team: asking a question, admitting a mistake, or challenging an idea without being embarrassed or punished. The term comes from Amy Edmondson's research, and Google's Project Aristotle found it was the strongest predictor of effective teams.
+
+Short input (10 min)
+
+Keep this conversational rather than lecture-style. Cover three points:
+1. What it is: Feeling able to say "I don't know", "I got that wrong", or "I'm not sure that's right" without worrying how it'll land.
+2. What it isn't: It's not about being nice all the time, lowering standards, or avoiding hard conversations. Safe teams disagree more openly, not less.
+3. Why it matters for engineers: Bugs get raised early, code reviews are honest, incidents get learned from rather than blamed, and juniors ask for help before they're stuck for a day.
+
+Draw Edmondson's two-by-two on the flipchart: psychological safety on one axis, accountability (high standards) on the other. Low safety and low standards is apathy; high safety and low standards is comfort; low safety and high standards is anxiety; high on both is the learning zone. Ask: "Which box do you think most apprentices start in, and why?"
+
+Table activity: Factory debrief (7 min)
+
+Tables sit in their factory teams and talk through these questions. Ask them to focus on what happened, not who did it.
+– When did you have an idea or spot a problem? Did you say it out loud?
+– What made it easier or harder to speak up while the clock was running?
+– Who did most of the talking, and how did quieter people get heard?
+– When something went wrong, how did the team react?
+– If you ran the factory again, what's one thing you'd change about how you worked together?
+
+Debrief (3 min): Ask two or three tables for one moment where someone did or didn't speak up, and place it on the two-by-two. Did time pressure push anyone into the anxiety zone? Draw out that small, everyday behaviours do most of the work, and that apprentices can build safety too, not just leads.
+
+Part 2: Communication styles and preferences (25 min)
+
+Everyone has preferences about how they communicate and work, and none of them are wrong; friction usually comes from assuming others work the way we do. Steer away from personality-type labels and talk about preferences on a spectrum, which can shift with context.
+
+Short input (5 min)
+
+Show these spectrums on a slide and ask people to notice where they sit on each, without sharing yet:
+One endOther endTalk it through live (call, huddle)Write it down (message, ticket, doc)Think out loudThink first, then speakBig picture firstDetail firstDirect, straight-to-the-point feedbackSofter, context-first feedbackHappy to be interruptedProtected focus timeQuick replies expectedReplies when I get to itLearn by doingLearn by reading or watching first
+Solo reflection: personal user manual (10 min)
+
+Each apprentice fills in the "How to work with me" handout (template at the end of this doc). Remind them it's theirs to keep and they choose what to share.
+
+Pairs (10 min)
+
+In pairs, each person shares two or three things from their manual. The listener asks one question: "What would it look like if someone got this wrong for you?" Then swap. Encourage pairs to spot where they differ, as that's the useful bit for Part 3.
+
+Part 3: 1-2-4-All on ways of working (30 min)
+
+1-2-4-All is a Liberating Structures format that gets everyone contributing, not just the confident voices. People think alone, then build ideas up in pairs, then fours, then share the best with the whole room. Run it twice with two different prompts.
+
+How to run each round (12 min)
+1. 1 (1 min): Silent, solo reflection. Everyone writes their own ideas on sticky notes, one idea per note.
+2. 2 (2 min): Pairs share and build on each other's ideas, looking for similarities and differences.
+3. 4 (4 min): Two pairs join. Share, then agree on the one or two ideas that stand out most.
+4. All (5 min): Each group of four shares one standout idea that hasn't already been heard. Capture each on the flipchart.
+
+Keep timings tight and visible; the pace is part of the format. Use a chime or raised hand to move between stages rather than talking over people.
+
+Round 1 prompt (blue sticky notes)
+
+What do you need from your teammates to feel comfortable asking questions, sharing ideas, and admitting mistakes?
+
+Round 2 prompt (yellow sticky notes)
+
+When someone's working style or communication preference is different from yours, what could you practically do to make it work for both of you?
+
+Nudge towards specific behaviours over general values. "Be respectful" is fine as a start, but ask "What would that look like on a Tuesday afternoon?" to get to "Ask before calling someone" or "Put the key point at the top of a message."
+
+Transition (3 min)
+
+With the group's help, quickly cluster the flipchart ideas into themes, such as meetings, messages, feedback, asking for help, and focus time. These clusters become the raw material for the working agreement.
+
+Part 4: Working agreement and close (15 min)
+
+Turn the clustered ideas into a short team working agreement the apprentices own. Aim for six to eight statements, each one a behaviour starting with "We will..." or "We'll...".
+
+Drafting the agreement (10 min)
+1. Read the clusters back to the room.
+2. For each cluster, ask the group to propose one "We'll..." statement. Write it up as they say it, then tidy the wording together.
+3. Do a quick fist-to-five on each statement (fist means "I can't support this", five means "Fully agree"). Anything at two or below gets a quick conversation or is parked.
+
+Example statements to prompt with if the room is quiet:
+– We'll say "I don't know" and ask for help within 30 minutes of being stuck
+– We'll check how someone prefers to receive feedback before giving it
+– We'll put the main point or ask at the top of messages
+– We'll respect focus time and use async messages unless it's urgent
+– We'll give everyone a chance to speak before a decision is made
+
+Close (5 min)
+
+Ask each person for one word on how they're leaving the session, or one thing they'll try this week. Explain what happens next: you'll type up the agreement and share it, and the group will revisit it at a set point (for example, after their first sprint and again around day 30).
+
+Facilitator notes
+
+The biggest thing you can do is model the behaviour you're teaching: admit what you don't know, thank people for questions, and react calmly when someone challenges you.
+– Make sharing optional. Preferences can touch on neurodivergence, disability, anxiety, or caring responsibilities. Never ask anyone to explain why they prefer something, and let people pass at any point.
+– Watch for quieter voices. The solo minute in 1-2-4-All helps, but also notice who hasn't spoken in the "All" stage and invite tables, not individuals, to share.
+– Avoid labelling people. If someone says "I'm just an introvert", gently reframe to the specific preference, such as "So you'd rather have time to think before a meeting?"
+– Hold the line on accountability. If the conversation drifts towards "safety means nobody criticises my code", bring back the two-by-two: the goal is the learning zone, where safety and high standards sit together.
+– Mixed cohorts. Career-changers may have strong habits from previous workplaces; invite them to share what worked there, as it's valuable for the group.
+– Remote version. Use breakout rooms for the 2 and 4 stages, and a shared board with columns for each prompt. Keep cameras optional.
+
+On the day: Run the paper plane factory first, straight after lunch, then this session. During the factory, jot down a few moments worth revisiting (someone spotting an issue, a handoff going wrong, a quiet voice with a good idea) so you can prompt tables in the Part 1 debrief if they get stuck.
+
+Follow-up
+– [ ] Type up and share the working agreement within a couple of days
+– [ ] Encourage apprentices to share their personal user manual with their buddy or line manager, if they're comfortable
+– [ ] Revisit the agreement after the first sprint and around day 30
+– [ ] Ask for quick anonymous feedback on the session
+
+Handout templates
+
+Print one personal user manual per apprentice, and use the working agreement layout when you type up the group's statements.
+
+How to work with me (personal user manual)
+PromptMy answerThe best way to get hold of me is...I do my best work when...When I'm stuck, I usually...I like to receive feedback by...In meetings, I tend to...Something people might misunderstand about me is...One thing that would really help me in my first few months is...
+Team working agreement
+We'll...Why it matters to us
+Agreed on: _____  Revisit on: _____
